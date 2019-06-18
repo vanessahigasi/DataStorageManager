@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DataManager</string>
+    <string name="text_color">Color</string>
+    <string name="hint_write_info_to">Write Info to Store Internally</string>
+    <string name="text_store_internally">Store Internally</string>
 </resources>
